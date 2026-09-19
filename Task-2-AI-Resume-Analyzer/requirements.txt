@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+pydantic
+langchain
+langchain-core
+langchain-google-genai
+pypdf
+python-docx
